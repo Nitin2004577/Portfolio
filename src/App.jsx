@@ -1,8 +1,8 @@
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About"
 import Technologies from "./components/Technologies";
-import Exprience from "./components/Experience";
+import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contect from "./components/Contect";
 const App = () => {
@@ -19,7 +19,7 @@ const App = () => {
           <Hero />
           <About />
           <Technologies />
-          <Exprience />
+          <Experience />
           <Projects />
           <Contect />
         </div>
@@ -29,3 +29,4 @@ const App = () => {
 };
 
 export default App;
+// error fixed 
