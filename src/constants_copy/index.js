@@ -50,7 +50,7 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Itahari, Province No. 1, Nepal",
-  phoneNo: "+977 9825041189",
+  phoneNo: "+977 9800000",
   email: "shahnitin500@gmail.com",
   Github: "https://github.com/Nitin2004577",
   Linkdin: "https://www.linkedin.com/in/nitin-kumar-shah-689229326/",
