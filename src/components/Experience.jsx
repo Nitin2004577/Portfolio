@@ -26,13 +26,13 @@ const PROJECTS = [
       "Personal portfolio built with React.js showcasing projects, skills, and contacts. Responsive with interactive routing using React Router.",
     technologies: ["React.js", "CSS", "React Router"],
   },
-  {
-    title: "CRUD API Project",
-    image: project1,
-    description:
-      "Django REST API with full CRUD operations for data management. Secure endpoints and structured backend learning project.",
-    technologies: ["Django REST Framework", "Python", "PostgreSQL"],
-  },
+  // {
+  //   title: "CRUD API Project",
+  //   image: project1,
+  //   description:
+  //     "Django REST API with full CRUD operations for data management. Secure endpoints and structured backend learning project.",
+  //   technologies: ["Django REST Framework", "Python", "PostgreSQL"],
+  // },
   {
     title: "University Database Management",
     image: project2,
@@ -47,13 +47,13 @@ const PROJECTS = [
       "Performed exploratory data analysis (EDA) on real datasets using Pandas and NumPy. Visualizations with Matplotlib and Seaborn reveal key insights.",
     technologies: ["Python", "Pandas", "NumPy", "Seaborn", "Matplotlib"],
   },
-  {
-    title: "AWS Data Engineering (Academy Labs)",
-    image: project3,
-    description:
-      "Built ETL pipelines & dashboards with AWS Glue, S3, Kinesis, and QuickSight. Focused on real-time data ingestion, transformation, and analytics visualization.",
-    technologies: ["AWS", "S3", "Glue", "Kinesis", "QuickSight"],
-  },
+  // {
+  //   title: "AWS Data Engineering (Academy Labs)",
+  //   image: project3,
+  //   description:
+  //     "Built ETL pipelines & dashboards with AWS Glue, S3, Kinesis, and QuickSight. Focused on real-time data ingestion, transformation, and analytics visualization.",
+  //   technologies: ["AWS", "S3", "Glue", "Kinesis", "QuickSight"],
+  // },
 ];
 
 const fadeUp = {

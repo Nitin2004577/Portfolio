@@ -47,13 +47,13 @@ export const PROJECTS = [
       "Personal portfolio website developed using React.js to showcase projects, skills, and contact information. Responsive layout and interactive routing built with React Router.",
     technologies: ["React.js", "CSS", "React Router"],
   },
-  {
-    title: "CRUD API Project",
-    image: project1,
-    description:
-      "Built a Django REST API with full CRUD operations for managing data. Includes secure endpoints, models, and structured data handling for backend learning.",
-    technologies: ["Django REST Framework", "Python", "PostgreSQL"],
-  },
+  // {
+  //   title: "CRUD API Project",
+  //   image: project1,
+  //   description:
+  //     "Built a Django REST API with full CRUD operations for managing data. Includes secure endpoints, models, and structured data handling for backend learning.",
+  //   technologies: ["Django REST Framework", "Python", "PostgreSQL"],
+  // },
   {
     title: "University Database Management System",
     image: project5,

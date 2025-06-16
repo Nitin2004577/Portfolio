@@ -26,13 +26,13 @@ const projects = [
       "Personal portfolio built with React.js showcasing projects, skills, and contacts. Responsive with interactive routing using React Router.",
     technologies: ["React.js", "CSS", "React Router"],
   },
-  {
-    title: "CRUD API Project",
-    image: project1,
-    description:
-      "Django REST API with full CRUD operations for data management. Secure endpoints and structured backend learning project.",
-    technologies: ["Django REST Framework", "Python", "PostgreSQL"],
-  },
+  // {
+  //   title: "CRUD API Project",
+  //   image: project1,
+  //   description:
+  //     "Django REST API with full CRUD operations for data management. Secure endpoints and structured backend learning project.",
+  //   technologies: ["Django REST Framework", "Python", "PostgreSQL"],
+  // },
   {
     title: "University Database Management",
     image: project2,
